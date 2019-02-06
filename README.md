@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="194" alt="duck" src="https://user-images.githubusercontent.com/43325248/52324307-29346680-2a24-11e9-8f2d-c6109bd3f017.png">
+
 ## Read Me
 
 In the project directory, you can run:
